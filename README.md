@@ -1,11 +1,13 @@
-# 👋 Hi, I'm Ashutosh!
-🧑‍💻 B.Tech Information Technology student at [NSUT](https://www.nsut.ac.in/), Delhi, building toward cloud engineering on AWS<br/>
-🏋️ Building [LiftLens](https://github.com/ashutosharma2/LiftLens): turns a photo into a shoulder-to-waist ratio you can track, measured in the browser and serverless on AWS for $0/month<br/>
-🏊 Building SwimSync: a FastAPI and PostgreSQL booking backend that never oversells a place (private for now)<br/>
-🔬 Re-checking a 2025 paper on forecasting CPU spikes in [SpikeCheck](https://github.com/ashutosharma2/SpikeCheck)<br/>
-🧩 Practising DSA in Java with [NeetCode](https://github.com/ashutosharma2/My-Neetcode-Submissions)<br/>
-💭 Currently preparing for AWS Certified Cloud Practitioner, then Solutions Architect Associate!<br/>
-📫 Open to cloud engineering internships in Gurgaon and Delhi NCR<br/>
+# Hi, I'm Ashutosh
+
+I study B.Tech Information Technology at [NSUT](https://www.nsut.ac.in/), Delhi, and I'm working toward cloud engineering on AWS. My portfolio is at [ashutosharma2.github.io](https://ashutosharma2.github.io).
+
+- Building [LiftLens](https://github.com/ashutosharma2/LiftLens), which turns a photo into a shoulder-to-waist ratio you can track. It measures in the browser and runs serverless on AWS for $0 a month.
+- Building [SwimSync](https://github.com/ashutosharma2/SwimSync), a FastAPI and PostgreSQL booking backend that never oversells a place
+- Re-checking a 2025 paper on forecasting CPU spikes in [SpikeCheck](https://github.com/ashutosharma2/SpikeCheck)
+- Practising DSA in Java with [NeetCode](https://github.com/ashutosharma2/My-Neetcode-Submissions)
+- Preparing for AWS Certified Cloud Practitioner, then Solutions Architect Associate
+- Open to cloud engineering internships in Gurgaon and Delhi NCR
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosharma2&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -39,7 +41,6 @@
 
 # 🚀 Featured Projects
 <!-- Repo cards from https://github.com/anuraghazra/github-readme-stats -->
-<!-- A card only renders for a public repo. SwimSync is private, so its card is commented out: uncomment it once the repo is public. -->
 [![LiftLens](https://github-readme-stats.vercel.app/api/pin/?username=ashutosharma2&repo=LiftLens&theme=radical&description_lines_count=3)](https://github.com/ashutosharma2/LiftLens)
+[![SwimSync](https://github-readme-stats.vercel.app/api/pin/?username=ashutosharma2&repo=SwimSync&theme=radical&description_lines_count=3)](https://github.com/ashutosharma2/SwimSync)
 [![SpikeCheck](https://github-readme-stats.vercel.app/api/pin/?username=ashutosharma2&repo=SpikeCheck&theme=radical&description_lines_count=3)](https://github.com/ashutosharma2/SpikeCheck)
-<!-- [![SwimSync](https://github-readme-stats.vercel.app/api/pin/?username=ashutosharma2&repo=SwimSync&theme=radical&description_lines_count=3)](https://github.com/ashutosharma2/SwimSync) -->
